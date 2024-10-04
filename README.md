@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello chat
+Im Kriden or as few people previously knew me as FireOfGaiming (yes the spelling is wrong, i was very young when I chose it).
 
+Im from Latvia and have a big interest in tech and do a bit of programming.
+im currently studying to be a computer system technician (i hope the name translates well) and plan to learn programming as a side project.
 <!--
 **FireOfGaiming/FireOfGaiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
